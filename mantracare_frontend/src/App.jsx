@@ -5,6 +5,7 @@ import { GlobalStateProvider } from './provider/GlobalStateProvider'; // Adjust 
 import Routers from './routes/Routers';
 import { io } from 'socket.io-client';
 import Layout from './layout/Layout';
+import FaqList from './components/Faq/FaqList';
 
 const socket = io('http://localhost:3500');
 

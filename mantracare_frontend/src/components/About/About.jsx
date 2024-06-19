@@ -18,14 +18,10 @@ const About = () => {
 
 
         <div className='w-full lg:w-1/2 xl:w-[670px] order-1 lg:order-2'>
-            <h2 className='heading'>Proud to be one of the nations best</h2>
-            <p className='text__para'>For 30 years in a row, U.S. News $ world report has recognized up as one of the best public hospital in the nation and #1 in texas. Lorem ispum dolor sit amet consecetetur, adipiscing elit, Quas, nemo?</p>
-
-            <p className='text__para mt-[30px]'>Our best is something we strive for each day, caring for our patients-not looking back at what we accomplished but towards what we can do tomorrow. Provideing the best. Lorem ispum dolor sit amet, consetetur adisicing elit. Aliwuid, modl?</p>
-
-            <Link to='/'>
-            <button className='btn'>Learn More</button>
-            </Link>
+            <h2 className='heading'>Welcome to MantraCare, where your well-being is our top priority.</h2>
+            <br />
+            <p className='text__para'>Our mission is to provide high quality mental health care services online throughout Ethiopia, and to do this we bring to you MantraCare. We envision MantraCare to be the place where the diverse Ethiopian public can come too and freely discuss the issues they have in mind. We say the Ethiopian public, because it is specially curated for them with their special requirements inkept throughout the process of building the site. They will be able to get the treatment they need from a trained professional and get the support of the brilliant Mantra-team and Mantra-Community. Mental health care has never been easier.</p>
+            <p className='text__para mt-[30px]'>There's nothing else like it, so take a look around and let us know what's on your mind .</p>
         </div>
     </div>
 </div>
